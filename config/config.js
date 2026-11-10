@@ -20,3 +20,7 @@ const production = {
  }
 };
 
+module.exports = {
+  development,
+  production
+};
